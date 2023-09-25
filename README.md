@@ -1,19 +1,18 @@
-# About Me
-
 Hello, I'm Ishika Chokhani 👋
 
-
-I'm a passionate developer who loves working with a variety of technologies. Here are some of the languages and tools I frequently use:
+I'm a passionate developer with a strong background in Python 🐍, Jupyter Notebook 📔, JavaScript 🌐, HTML 🕸️, and CSS 🎨. I enjoy creating interactive web applications, diving into data analysis 📊, and building cool projects 🚀.
 
 ## 🔧 Technologies & Tools
 
-- **Jupyter Notebook**: I frequently use Jupyter Notebook for data analysis, machine learning, and interactive code exploration.
+- **Languages**: Python, Jupyter Notebook, JavaScript, HTML, CSS
 
-- **Python**: I'm proficient in Python and use it for a wide range of applications.
+- **Web Development**: HTML, CSS, JavaScript, React
 
-- **JavaScript**: I enjoy working with JavaScript to create dynamic and interactive web applications.
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter
 
-- **HTML & CSS**: I have a strong foundation in HTML and CSS, which I use to build and style web pages.
+- **Version Control**: Git, GitHub
+
+- **IDEs/Editors**: VSCode, JupyterLab
 
 ## 🌱 I'm always learning
 
@@ -21,7 +20,7 @@ I'm continuously expanding my skill set and exploring new technologies.
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ishika-chokhani-a415501b9)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ishika-chokhani-a415501b9)
 - Email: [chokhaniishika@gmail.com]
 
 
