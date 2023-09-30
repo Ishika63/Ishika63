@@ -1,6 +1,7 @@
 Hello, I'm Ishika Chokhani 👋
 
-I'm a passionate developer with a strong background in Python 🐍, Jupyter Notebook 📔, JavaScript 🌐, HTML 🕸️, and CSS 🎨. I enjoy creating interactive web applications, diving into data analysis 📊, and building cool projects 🚀.
+I'm a passionate developer with a strong background in Python 🐍, Jupyter Notebook 📔, JavaScript 🌐, HTML 🕸️, and CSS 🎨. I enjoy creating interactive web applications, diving into data analysis 📊 and building cool projects 🚀.
+
 
 ## 🔧 Technologies & Tools
 
@@ -13,10 +14,7 @@ I'm a passionate developer with a strong background in Python 🐍, Jupyter Note
 - **Version Control**: Git, GitHub
 
 - **IDEs/Editors**: VSCode, JupyterLab
-
-## 🌱 I'm always learning
-
-I'm continuously expanding my skill set and exploring new technologies. 
+- 
 
 ## 📫 How to reach me
 
