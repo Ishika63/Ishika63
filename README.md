@@ -14,7 +14,7 @@ I'm a passionate developer with a strong background in Python 🐍, Jupyter Note
 - **Version Control**: Git, GitHub
 
 - **IDEs/Editors**: VSCode, JupyterLab
-- 
+
 
 ## 📫 How to reach me
 
